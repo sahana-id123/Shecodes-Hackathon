@@ -1,9 +1,9 @@
-<figure><img src=".gitbook/assets/Screenshot 2024-05-12 193429.png" alt=""> </figure> 
+
 
 
 ## Overview
 
-* ### Smart India Hackathon - 2023 Finalist&#x20;
+
 * ### Problem Statement : Online integrated platform for projects taken up by the students of various universities/colleges
 * ### Domain Bucket : Smart Education
 
@@ -132,6 +132,4 @@
     npm start
     ```
 
-## Youtube Demonstration (Ideation Phase):
 
-<a href="https://youtu.be/fACKQSzBI7A"> https://youtu.be/fACKQSzBI7A </a>
