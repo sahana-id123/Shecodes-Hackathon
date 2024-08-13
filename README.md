@@ -4,8 +4,8 @@
 ## Overview
 
 
-* ### Problem Statement : Online integrated platform for projects taken up by the students of various universities/colleges
-* ### Domain Bucket : Smart Education
+* ### Problem Statement : Online integrated platform for projects taken up by the students of various universities/colleges.
+* ### Theme : Open Innovation.
 
 ## Features :&#x20;
 
